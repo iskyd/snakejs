@@ -1,7 +1,7 @@
 # Snake in pure javascript!
 
 This is a guide step by step on how I tried to make the game work (there will always be a better way to do that).
-
+Try the [Demo](http://codepen.io/isky/full/mmGVXO/) on codepen.io
 Start creating a canvas on index.html file and import snake.js file.
 
 ```sh

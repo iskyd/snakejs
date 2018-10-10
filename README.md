@@ -14,8 +14,6 @@ Start creating a canvas on index.html file and import snake.js file.
     <canvas id="snake" width="480" height="320"></canvas>
 </body>
 <script src="./snake.js"></script>
-<script>
-</script>
 </html>
 ```
 
